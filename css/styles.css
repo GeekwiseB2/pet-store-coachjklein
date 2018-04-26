@@ -1,0 +1,28 @@
+.logo {
+  max-height: 70px;
+}
+.logo-text {
+  display: inline-block;
+  font-family: 'Satisfy', cursive;
+  color: #FF827B;
+  font-size: 36px;
+  margin-top: 20px;
+}
+.jumbotron {
+  background-image: url('../img/hero.jpg');
+  background-size: cover;
+  height: 450px;
+  background-position: center;
+}
+.jumbotron h2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: white;
+}
+.thumbnail {
+  background-color: #c3c3c3;
+  padding: 5px;
+}
+.footer {
+  background-color: #333;
+}
